@@ -1,0 +1,23 @@
+[
+    {
+        "Nombre": "Juan Perez",
+        "Especialidad": "Motor",
+        "Salario": "2.900000"
+    },
+    {
+        "Nombre": "Ricardo Perez",
+        "Especialidad": "Electricista",
+        "Salario": "2.100000"
+    },
+    {
+        "Nombre": "Eduardo Perez",
+        "Especialidad": "Pintura",
+        "Salario": "1.600000"
+    },
+    {
+        "id": "8e7d3671-04e3-4f63-8207-47e9b6097bfd",
+        "nombre": "string",
+        "especialidad": "string",
+        "salario": 0.0
+    }
+]
